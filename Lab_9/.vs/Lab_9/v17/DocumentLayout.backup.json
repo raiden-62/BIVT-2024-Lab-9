@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_9\\purplejsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|solutionrelative:purplejsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132C996-131C-49D4-ACF2-618B03FF1218}|..\\Lab_7\\Lab_7.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_7\\purple_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132C996-131C-49D4-ACF2-618B03FF1218}|..\\Lab_7\\Lab_7.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_7\\purple_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF30CD4-6B6C-D41E-78C1-7D59CC162D83}|..\\Lab_9_Purple_Test\\Lab_9_Purple_Test.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_9_purple_test\\purplejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_9\\purpletxtserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|solutionrelative:purpletxtserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_9\\purplexmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB2962F-8F0D-482F-AAD1-8F6C5E09DCCF}|Lab_9.csproj|solutionrelative:purplexmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132C996-131C-49D4-ACF2-618B03FF1218}|..\\Lab_7\\Lab_7.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_7\\purple_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132C996-131C-49D4-ACF2-618B03FF1218}|..\\Lab_7\\Lab_7.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_7\\purple_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132C996-131C-49D4-ACF2-618B03FF1218}|..\\Lab_7\\Lab_7.csproj|c:\\users\\afedi\\desktop\\laboratory_9\\lab_7\\purple_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurpleJSON.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9_Purple_Test\\PurpleJSON.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9_Purple_Test\\PurpleJSON.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9_Purple_Test\\PurpleJSON.cs",
+              "RelativeToolTip": "..\\Lab_9_Purple_Test\\PurpleJSON.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAcwBACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:19:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Purple_2.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_2.cs",
+              "RelativeDocumentMoniker": "..\\Lab_7\\Purple_2.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_2.cs",
+              "RelativeToolTip": "..\\Lab_7\\Purple_2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:47:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purple_5.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_5.cs",
+              "RelativeDocumentMoniker": "..\\Lab_7\\Purple_5.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_5.cs",
+              "RelativeToolTip": "..\\Lab_7\\Purple_5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:47:03.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurpleXMLSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleXMLSerializer.cs",
+              "RelativeDocumentMoniker": "PurpleXMLSerializer.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleXMLSerializer.cs",
+              "RelativeToolTip": "PurpleXMLSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:42:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Purple_3.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_3.cs",
+              "RelativeDocumentMoniker": "..\\Lab_7\\Purple_3.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_3.cs",
+              "RelativeToolTip": "..\\Lab_7\\Purple_3.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:48:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Purple_4.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_4.cs",
+              "RelativeDocumentMoniker": "..\\Lab_7\\Purple_4.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_4.cs",
+              "RelativeToolTip": "..\\Lab_7\\Purple_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:08:17.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Purple_1.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_1.cs",
+              "RelativeDocumentMoniker": "..\\Lab_7\\Purple_1.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_7\\Purple_1.cs",
+              "RelativeToolTip": "..\\Lab_7\\Purple_1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:48:10.962Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurpleJSONSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleJSONSerializer.cs",
+              "RelativeDocumentMoniker": "PurpleJSONSerializer.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleJSONSerializer.cs",
+              "RelativeToolTip": "PurpleJSONSerializer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:32:01.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurpleTXTSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleTXTSerializer.cs",
+              "RelativeDocumentMoniker": "PurpleTXTSerializer.cs",
+              "ToolTip": "C:\\Users\\afedi\\Desktop\\Laboratory_9\\Lab_9\\PurpleTXTSerializer.cs",
+              "RelativeToolTip": "PurpleTXTSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:01:10.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
